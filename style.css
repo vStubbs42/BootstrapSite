@@ -1,0 +1,135 @@
+.blueback {
+	background-color: #4f91cd;
+/*	height: 200px;*/
+	color: white;
+}
+
+.greenback {
+	background-color: #7aa120;
+	color: white;
+}
+
+
+#quick-nav ul li {
+    border-right: 1px solid #d4d2d2;
+}
+
+#quick-nav ul li:last-child {
+    border-right: none;
+}
+
+#main-nav {
+	background-color: #043867;
+}
+
+#main-nav ul li {
+	border-right: 1px ridge grey;
+	color: white;
+}
+
+#full-nav, .btext {
+	background-color: #34383c;
+	color: #9ea9b1;
+}
+
+#full-nav h4 {
+	color: white;
+	padding-left: 40px;
+	font-size: 20px;
+}
+
+.btext {
+	border-top: 1px solid white;
+	color: white;
+	font-size: 20px;
+}
+
+.herodiv {
+	color: white;
+	border-bottom: 1px solid white;
+	border-top: 1px solid white;
+	font-size: 50px;
+	left: 13%;
+	top: 23%;
+}
+
+.herodiv h3 {
+	font-size: 65px;
+}
+
+li {
+	list-style-type: none;
+}
+
+.lighttext {
+	opacity: .6;
+}
+
+.mainnavheight {
+	height:60px;
+
+}
+
+.headerheight {
+	height: 140px;
+}
+
+.greenfsize {
+	font-size: 50px;
+}
+
+.greenpad {
+	padding-top: 2px;
+}
+
+.greenbackheight {
+	height: 120px;
+}
+
+.squares {
+	background-color: #e7ecf0;
+	height: 300px;
+}
+
+.smheadfontsize {
+	font-size: 36px;
+}
+
+.smheadfontsizeb {
+	font-size: 40px;
+}
+
+.bottbuttons {
+	width: 250px;
+	height: 45px;
+}
+
+.bord {
+	border: 1px solid grey;
+	width: 70px;
+	height: 70px;
+}
+.bbb {
+	font-size: 35px;
+	line-height: 30px;
+	color: #7aa120;
+}
+.aaa {
+	padding-top: 10px;
+	padding-left: 12px;	
+	color: #7aa120;
+}
+
+.bluetext {
+	color: #428bca;
+}
+
+.purplebgr {
+	background-color: #620e6e;
+	color: white;
+}
+
+.bluebgr {
+	background-color: #4385c1;
+	color: white;
+}
